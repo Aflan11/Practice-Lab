@@ -1,4 +1,4 @@
-echo "Hello all
+echo "Hello all"
 date
 cal
 cat /etc/os-release
